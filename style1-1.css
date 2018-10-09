@@ -1,0 +1,58 @@
+/*selector{
+	propiedad: valor;
+	}*/
+
+h1{
+		color: white;
+		text-align: center;
+		border: solid;
+		cursor: pointer;
+		font-size: 200%;
+		font-family: "Georgia"
+}
+p {color: silver;
+		text-align: center;
+		font-size: 100%;
+		font-family: "Georgia"
+
+}
+img {
+	align-content: center;
+	width: 450px;
+	height: 300px;
+}
+
+body {
+	background-image: url(fondo2.jpg);
+}
+p {
+	color: black;
+		text-align: center;
+		cursor: pointer;
+		font-size: 90%;
+		font-family: "Arial"
+
+}
+h2{
+	color: black;
+		text-align: center;
+		cursor: pointer;
+		font-size: 100%;
+		font-family: "Georgia"
+
+}
+img {
+	align-content: center;
+	width: 450px;
+	height: 300px;
+}
+
+table {
+	font-size: 100%;
+	font-family: "Georgia"
+}
+
+script {
+	font-size: 90%;
+	font-family: "Georgia"
+}
